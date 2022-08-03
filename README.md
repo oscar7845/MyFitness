@@ -1,1 +1,4 @@
-# MyFitness-App
+# MyFitness-App design 
+
+### Languages:
+- HTML, CSS, JS
